@@ -1,0 +1,11 @@
+{
+  "name": "tts",
+  "version": "0.1.0",
+  "description": "time test service",
+  "main": "time.js",
+  "dependencies": {
+    "moment": "^2.22.1",
+    "moment-timezone": "^0.5.14"
+  },
+  "devDependencies": {}
+}
